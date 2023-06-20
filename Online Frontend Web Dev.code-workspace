@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Visual Code Projects/Online Frontend Web Dev"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "testimonials-grid-section-main"
+	}
+}
